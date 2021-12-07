@@ -21,4 +21,3 @@ Alternatively all the required packages are in the **packages** folder (Not reco
 **2:**
 
 Execute the Python script. The results will be stores in a Comma Seperate Values in the current working directory. (Tip: You can find the current working directory by using the command "pwd" in your python terminal shell)
-
