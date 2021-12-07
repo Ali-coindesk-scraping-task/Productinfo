@@ -6,7 +6,9 @@ Coding Challenge Implementation - CoinDesk - Dec 2021
 
 This script is writtin using Python 3.8.5; it has also been tested using python 3.7
 
-There are 4 modules required for executing this script, they can be found in **requirements.txt**. requests, BeautifulSoup, lxml, and Pandas
+There are 4 modules required for executing this script, they can be found in **requirements.txt**:
+
+requests, BeautifulSoup, lxml, and Pandas
 
 # Step by step guide:
 
