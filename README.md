@@ -20,4 +20,10 @@ Alternatively all the required packages are in the **packages** folder (Not reco
 
 **2:**
 
-Execute the Python script. The results will be stores in a Comma Seperate Values in the current working directory. (Tip: You can find the current working directory by using the command "pwd" in your python terminal shell)
+Execute the Python script. The results will be stores in a Comma Seperate Values in the current working directory.
+
+Name of the file will follow the format of: **first_desired_category_initials**&**second_desired_category_initials**&... .csv
+
+Example: For books in categories Romance and Crime, the filename will be **Ro&Cr.csv**
+
+(Tip: You can find the current working directory by using the command "pwd" in your python terminal shell)
