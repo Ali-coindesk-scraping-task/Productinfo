@@ -16,7 +16,7 @@ requests, BeautifulSoup, lxml, and Pandas
 
 Install the required packages using : pip install -r requirements.txt
 
-Alternatively all the required packages are in the **packages** folder (Not recommended)
+Alternatively download all of the required packages that I have uploaded as a zip file from:  https://www.sendbig.com/view-files?Id=08b15475-d88a-f953-3121-580ccc4c10f6 (**Not recommended** !!!!)
 
 **2:**
 
